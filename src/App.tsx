@@ -1,5 +1,5 @@
 import './App.css';
-import Driver from './Driver';
+import Driver from './Driver/Driver';
 
 import drivers from './drivers.json';
 import { useEffect } from 'react';

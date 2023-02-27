@@ -17,7 +17,7 @@ function Driver({ position, brand, name, gap, player }: IDriver) {
             <div
                 className='brand'
                 style={{
-                    backgroundImage: `url('../public/images/${brand}.webp')`,
+                    backgroundImage: `url('./images/${brand}.webp')`,
                 }}
             ></div>
             <div className={`name`}>{name}</div>

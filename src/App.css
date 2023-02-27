@@ -16,7 +16,7 @@
 }
 
 body {
-    background-image: url('../public/images/background.jpg');
+    background-image: url('./images/background.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -82,7 +82,7 @@ body {
 }
 
 .title {
-    background-image: url('../public/images/8thgearfull.svg');
+    background-image: url('./images/8thgearfull.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
